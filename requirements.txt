@@ -4,3 +4,5 @@ plotly
 dash
 gdown
 scipy
+jupyterlab
+dash-jupyterlab
